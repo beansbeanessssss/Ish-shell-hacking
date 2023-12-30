@@ -2,4 +2,4 @@
 a collection of cool tools and hacks using the ish shell downloadable from the appstore on ios and the play store on android!
 # list:
 ## admin panel finder
-[admin panel finder](hacks/readme.md)
+[admin panel finder](Hacks/Readme.md)
