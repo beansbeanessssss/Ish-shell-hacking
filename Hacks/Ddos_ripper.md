@@ -1,6 +1,7 @@
 # ddos ripper
 ## install:
-```apk add git
+```
+apk add git
 apk update
 apk add python3
 python3 --version
