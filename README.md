@@ -7,4 +7,4 @@ a collection of cool tools and hacks using the ish shell downloadable from the a
 ## sql map
 [sqlmap](Hacks/Sqlmap.md)
 ## ddos ripper
-[sqlmap](Hacks/Sqlmap.md)
+[ddos ripper](Hacks/Ddos_ripper.md) 
