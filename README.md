@@ -3,7 +3,7 @@ a collection of cool tools and hacks using the ish shell downloadable from the a
 ### note: this is for ethical and educational reasons only
 # list:
 ## admin panel finder
-[admin panel finder](Hacks/Readme.md)
+[admin panel finder](Hacks/Adminpanelfinder.md)
 ## sql map
 [sqlmap](Hacks/Sqlmap.md)
 ## ddos ripper
